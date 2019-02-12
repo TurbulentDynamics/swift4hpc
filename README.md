@@ -1,4 +1,4 @@
-# [@Swift4HPC](@swift4hpc)
+# [@Swift4HPC](https://twitter.com/swift4hpc)
 [Turbulent Dynamics](https://turbulentdynamics.github.io) combines traditional physics simulations with machine learning to reduce the amount of compute required, but still run simulations on hundreds of nodes and thousands of cores on hetrogeneous high performance computing clusters with x86 and nVidia hardware.  
 
 
@@ -20,4 +20,4 @@ This blog and collection of code stubs on how to use Apples Swift in a High Perf
 
 [Edward Chrzanowski at University of Waterloo](https://uwaterloo.ca/watitis/sites/ca.watitis/files/uploads/files/swift-hpc.pdf)
 
-
+[Why Swift for TensorFlow](https://github.com/tensorflow/swift/blob/master/docs/WhySwiftForTensorFlow.md)
