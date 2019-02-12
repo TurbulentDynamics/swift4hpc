@@ -1,4 +1,4 @@
-# Swift4HPC
+# [@Swift4HPC](@swift4hpc)
 [Turbulent Dynamics](https://turbulentdynamics.github.io) combines traditional physics simulations with machine learning to reduce the amount of compute required, but still run simulations on hundreds of nodes and thousands of cores on hetrogeneous high performance computing clusters with x86 and nVidia hardware.  
 
 
